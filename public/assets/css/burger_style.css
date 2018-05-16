@@ -1,6 +1,25 @@
+@import url(https://fonts.googleapis.com/css?family=Roboto|Titan+One);
+
 body {
   background:#e9e08c;
+  align-content: center;
 }
+
+h1 {
+font-family: 'Titan One', cursive;
+color: green;
+}
+
+p {
+  font-family: 'Roboto', san-serif;
+  font-weight: bold;
+  }
+.menu
+{
+  font-family: 'Roboto', san-serif;
+  font-weight: bold;
+  font-size: 125%;
+  }
 
 li {
   padding: 5px;

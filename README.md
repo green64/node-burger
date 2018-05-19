@@ -69,6 +69,10 @@ res.redirect("/");
 });
 });
 ```
+***Video walkthrough***
 
+While I have deployed this app to Heroku, I haven't yet successfully got it working there. Until I figure out the bug, here's a video demo from my local server:
+
+:video_camera: [Liri app walkthrough](https://youtu.be/zeJlk8wEUKA)
 
 

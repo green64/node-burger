@@ -7,7 +7,7 @@ var connection = mysql.createConnection({
   password: "qf8kbv0lvrliscx2",
   database: "tfxnuofy7u5nuy95",
   host: "tyduzbv3ggpf15sx.cbetxkdyhwsb.us-east-1.rds.amazonaws.com",
-  dialect: "mysql"
+  // dialect: "mysql"
 
   // host: "localhost",
   // user: "root",

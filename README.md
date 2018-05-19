@@ -75,4 +75,8 @@ While I have deployed this app to Heroku, I haven't yet successfully got it work
 
 :video_camera: [Liri app walkthrough](https://youtu.be/zeJlk8wEUKA)
 
+***Update***
+
+You probably wouldn't notice this unless you read to the very end, but the app is NOW working! I had "username" instead of "user" in my connection file, and that was enough to mess things up! Byron, the most awesome TA ever, found the problem in my Heroku log when he noticed an empty string. Another important thing to watch going forward. Now on to MongoDB. :neckbeard:
+
 
